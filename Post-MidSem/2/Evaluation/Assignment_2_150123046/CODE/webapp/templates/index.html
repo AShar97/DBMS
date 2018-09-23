@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Neo4j Database Assignment Webapp</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<div class="container">
+
+	<h2>Neo4j Database Assignment Webapp</h2>
+
+	<div>
+		<ul>
+			<li>
+				3. Given a <b>location</b>, find the top 3 co-occurring user-mention (author_screen_name) pairs co-occurring in tweets posted from this location. Two user-mentions are said to be co-occurring if they co-occur in the same tweet (tweet_type : Tweet). Sort the output in decreasing order of cooccurrence count. Your output should include only the following:<br>
+				Location -- User-mention1 – User-mention2 – Tweet-ids where these usermentions co-occur -- Co-occurrence count
+			</li>
+			<br>
+			<li>
+				9. Given a <b>user-mention (author_screen_names)</b>, retrieve the top 3 hashtags cooccurring with this user mention. A hashtag and a user mention is said to be co-occurring if they co-occur in the same tweet(tweet_type : Tweet). Sort the output in decreasing order of co-occurrence count. Your output should include the following:<br>
+				User-mention – hashtags – Tweet-ids where the user-mention and the hashtag co-occur
+			</li>
+		</ul>
+		<br>
+	</div>
+
+	<div class="panel panel-info">
+		<form action="/" method="post" role="form">
+			<input type="hidden" name="index" id="index" />
+			<div class="form-group">
+				<!-- <label for="name">Name:</label> -->
+				<input type="text" class="form-control" id="name" name="name" placeholder="Enter the input...">
+			</div>
+			<input type="submit" class="btn btn-success" value="Submit Query 3" onclick="setter(3)"></input>
+			<input type="submit" class="btn btn-success" value="Submit Query 9" onclick="setter(9)"></input>
+			<input type="submit" class="btn btn-success" value="Clear!" onclick="setter(0)"></input>
+		</form>
+	</div>
+	<div id="output_here"></div>
+</div>
+
+</body>
+</html>
+<script type="text/javascript">
+	var output = "{{ out|safe }}";
+	function setter(index){
+		$('#index').val(index);
+	}
+	$('#output_here').html(output);
+</script>

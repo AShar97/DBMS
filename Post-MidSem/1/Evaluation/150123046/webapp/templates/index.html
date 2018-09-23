@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Reusable Form Demo</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<div class="container">
+
+	<h2>Cassandra Database Assignment</h2>
+
+	<div>
+		<ul>
+			<li>
+				Question 4.
+				<br>
+				Given a date 2018-01-15, find all active userIDs on that date. An user is said to be active on a given data if he has posted a tweet on that date. Sort the userIDs in decreasing order of frequency. Your output should include the following:
+				<br>
+				Date – UserID – Number of times the userID has posted a tweet on that date
+				<br>
+				At the end, display the total number of such rows obtained.
+			</li>
+			<li>
+				Question 8.
+				<br>
+				Given a date, 2018-01-15 find all co-occurring mention-hashtag pairs. A mention and hashtag is said to be a co-occurring pair if they co-appear in the same tweet. Sort your output in decreasing order of frequency. Your output should include the following:
+				<br>
+				Date - (mention-hashtag) - Number of times the mention-hashtag pair is cooccurring on this date
+				<br>
+				At the end, display the total number of such rows obtained.
+			</li>
+		</ul>
+		<br><br>
+	</div>
+
+	<div class="panel panel-info">
+		<form action="/" method="post" role="form">
+			<input type="hidden" name="index" id="index" />
+			<div class="form-group">
+				<!-- <label for="name">Name:</label> -->
+				<input type="text" class="form-control" id="name" name="name" placeholder="Enter the input...">
+			</div>
+			<input type="submit" class="btn btn-success" value="Submit Query 4" onclick="setter(4)"></input>
+			<input type="submit" class="btn btn-success" value="Submit Query 8" onclick="setter(8)"></input>
+			<input type="submit" class="btn btn-success" value="Clear!" onclick="setter(0)"></input>
+		</form>
+	</div>
+	<div id="output_here"></div>
+</div>
+
+</body>
+</html>
+<script type="text/javascript">
+	var output = "{{ out|safe }}";
+	function setter(index){
+		$('#index').val(index);
+	}
+	$('#output_here').html(output);
+</script>

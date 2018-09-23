@@ -1,0 +1,1 @@
+On unarchiving the file named "database-19-jan-2018.tgz", a directory named "database-19-jan-2018" is generated which has a subdirectory also named "database-19-jan-2018". Place the submission code c source file in the outside directory such that its parent directory is named "database-19-jan-2018" and it has a sister directory named "database-19-jan-2018".

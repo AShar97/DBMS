@@ -1,0 +1,193 @@
+[
+  {
+    "keys": [
+      "nodes",
+      "relationships"
+    ],
+    "length": 2,
+    "_fields": [
+      [
+        {
+          "identity": {
+            "low": -4,
+            "high": -1
+          },
+          "labels": [
+            "Hashtag"
+          ],
+          "properties": {
+            "indexes": [],
+            "name": "Hashtag",
+            "constraints": [
+              "CONSTRAINT ON ( hashtag:Hashtag ) ASSERT hashtag.hashtag IS UNIQUE"
+            ]
+          }
+        },
+        {
+          "identity": {
+            "low": -1,
+            "high": -1
+          },
+          "labels": [
+            "User"
+          ],
+          "properties": {
+            "indexes": [],
+            "name": "User",
+            "constraints": [
+              "CONSTRAINT ON ( user:User ) ASSERT user.author_screen_name IS UNIQUE"
+            ]
+          }
+        },
+        {
+          "identity": {
+            "low": -3,
+            "high": -1
+          },
+          "labels": [
+            "Keyword"
+          ],
+          "properties": {
+            "indexes": [],
+            "name": "Keyword",
+            "constraints": []
+          }
+        },
+        {
+          "identity": {
+            "low": -2,
+            "high": -1
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "indexes": [],
+            "name": "Tweet",
+            "constraints": [
+              "CONSTRAINT ON ( tweet:Tweet ) ASSERT tweet.tid IS UNIQUE"
+            ]
+          }
+        }
+      ],
+      [
+        {
+          "identity": {
+            "low": -5,
+            "high": -1
+          },
+          "start": {
+            "low": -2,
+            "high": -1
+          },
+          "end": {
+            "low": -2,
+            "high": -1
+          },
+          "type": "RETWEETS",
+          "properties": {}
+        },
+        {
+          "identity": {
+            "low": -2,
+            "high": -1
+          },
+          "start": {
+            "low": -2,
+            "high": -1
+          },
+          "end": {
+            "low": -3,
+            "high": -1
+          },
+          "type": "HAS",
+          "properties": {}
+        },
+        {
+          "identity": {
+            "low": -7,
+            "high": -1
+          },
+          "start": {
+            "low": -2,
+            "high": -1
+          },
+          "end": {
+            "low": -2,
+            "high": -1
+          },
+          "type": "QUOTES",
+          "properties": {}
+        },
+        {
+          "identity": {
+            "low": -4,
+            "high": -1
+          },
+          "start": {
+            "low": -2,
+            "high": -1
+          },
+          "end": {
+            "low": -1,
+            "high": -1
+          },
+          "type": "MENTIONS",
+          "properties": {}
+        },
+        {
+          "identity": {
+            "low": -3,
+            "high": -1
+          },
+          "start": {
+            "low": -2,
+            "high": -1
+          },
+          "end": {
+            "low": -4,
+            "high": -1
+          },
+          "type": "TAGS",
+          "properties": {}
+        },
+        {
+          "identity": {
+            "low": -6,
+            "high": -1
+          },
+          "start": {
+            "low": -2,
+            "high": -1
+          },
+          "end": {
+            "low": -2,
+            "high": -1
+          },
+          "type": "REPLY",
+          "properties": {}
+        },
+        {
+          "identity": {
+            "low": -1,
+            "high": -1
+          },
+          "start": {
+            "low": -1,
+            "high": -1
+          },
+          "end": {
+            "low": -2,
+            "high": -1
+          },
+          "type": "POSTS",
+          "properties": {}
+        }
+      ]
+    ],
+    "_fieldLookup": {
+      "nodes": 0,
+      "relationships": 1
+    }
+  }
+]

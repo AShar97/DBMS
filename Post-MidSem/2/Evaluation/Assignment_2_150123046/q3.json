@@ -1,0 +1,91 @@
+[
+  {
+    "keys": [
+      "t.location",
+      "m1.author_screen_name",
+      "m2.author_screen_name",
+      "collect(t.tid)",
+      "c"
+    ],
+    "length": 5,
+    "_fields": [
+      "India",
+      "AmitShah",
+      "narendramodi",
+      [
+        "959577120963022848",
+        "938195858243313665"
+      ],
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "t.location": 0,
+      "m1.author_screen_name": 1,
+      "m2.author_screen_name": 2,
+      "collect(t.tid)": 3,
+      "c": 4
+    }
+  },
+  {
+    "keys": [
+      "t.location",
+      "m1.author_screen_name",
+      "m2.author_screen_name",
+      "collect(t.tid)",
+      "c"
+    ],
+    "length": 5,
+    "_fields": [
+      "India",
+      "INCIndia",
+      "OfficeOfRG",
+      [
+        "962838388939411458",
+        "960301918047428609"
+      ],
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "t.location": 0,
+      "m1.author_screen_name": 1,
+      "m2.author_screen_name": 2,
+      "collect(t.tid)": 3,
+      "c": 4
+    }
+  },
+  {
+    "keys": [
+      "t.location",
+      "m1.author_screen_name",
+      "m2.author_screen_name",
+      "collect(t.tid)",
+      "c"
+    ],
+    "length": 5,
+    "_fields": [
+      "India",
+      "narendramodi",
+      "sardanarohit",
+      [
+        "959938622198767616"
+      ],
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "t.location": 0,
+      "m1.author_screen_name": 1,
+      "m2.author_screen_name": 2,
+      "collect(t.tid)": 3,
+      "c": 4
+    }
+  }
+]

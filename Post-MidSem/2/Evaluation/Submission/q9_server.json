@@ -1,0 +1,1411 @@
+[
+  {
+    "keys": [
+      "m",
+      "h",
+      "collect(t)",
+      "c"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "identity": {
+          "low": 9,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "author_screen_name": "narendramodi"
+        }
+      },
+      {
+        "identity": {
+          "low": 8,
+          "high": 0
+        },
+        "labels": [
+          "Hashtag"
+        ],
+        "properties": {
+          "hashtag": "बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा"
+        }
+      },
+      [
+        {
+          "identity": {
+            "low": 1786,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:49",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/WAeLAIhEMq",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939514666909696"
+          }
+        },
+        {
+          "identity": {
+            "low": 1708,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:32",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/AsKgeJfUzi",
+            "retweet_count": {
+              "low": 3,
+              "high": 0
+            },
+            "tid": "959939443015671808"
+          }
+        },
+        {
+          "identity": {
+            "low": 1695,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:42",
+            "like_count": {
+              "low": 2,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/dnRGyBgADZ",
+            "retweet_count": {
+              "low": 4,
+              "high": 0
+            },
+            "tid": "959939485298343936"
+          }
+        },
+        {
+          "identity": {
+            "low": 1669,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:42",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/o5zvNcOmuz",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939482148470786"
+          }
+        },
+        {
+          "identity": {
+            "low": 1580,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:57",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/kK7nQsjlFZ",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939547516649473"
+          }
+        },
+        {
+          "identity": {
+            "low": 1211,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:25",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/wRJz4UxNNR",
+            "retweet_count": {
+              "low": 1,
+              "high": 0
+            },
+            "tid": "959939413135339520"
+          }
+        },
+        {
+          "identity": {
+            "low": 1232,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:24",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "Rajasthan, India",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/2dykIijSWb",
+            "retweet_count": {
+              "low": 3,
+              "high": 0
+            },
+            "tid": "959939410153283585"
+          }
+        },
+        {
+          "identity": {
+            "low": 1266,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:46",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/5hbqlloRRE",
+            "retweet_count": {
+              "low": 6,
+              "high": 0
+            },
+            "tid": "959939501098323968"
+          }
+        },
+        {
+          "identity": {
+            "low": 981,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:45",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/UjR8q3P1b2",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939498195894272"
+          }
+        },
+        {
+          "identity": {
+            "low": 1017,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:30",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/qHt45Oh5f0",
+            "retweet_count": {
+              "low": 3,
+              "high": 0
+            },
+            "tid": "959939432655634432"
+          }
+        },
+        {
+          "identity": {
+            "low": 1032,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:51",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/NHmqYn2j2Z",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939520866140160"
+          }
+        },
+        {
+          "identity": {
+            "low": 963,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:04",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "Asanpura Nagour Rajsthan",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/sP421iL5V7",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939324220342272"
+          }
+        },
+        {
+          "identity": {
+            "low": 704,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:30",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/KHJNtKXeF0",
+            "retweet_count": {
+              "low": 3,
+              "high": 0
+            },
+            "tid": "959939435793063936"
+          }
+        },
+        {
+          "identity": {
+            "low": 536,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:06",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "Rajasthan, India",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/aHnQMiqyJv",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939333347164160"
+          }
+        },
+        {
+          "identity": {
+            "low": 6,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:05",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "Kuchaman City Nagour Rajsthan ",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/w3ghsS29ZH",
+            "retweet_count": {
+              "low": 3,
+              "high": 0
+            },
+            "tid": "959939327785500672"
+          }
+        },
+        {
+          "identity": {
+            "low": 150,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:52",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/AnTChgu75J",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939524951289856"
+          }
+        }
+      ],
+      {
+        "low": 16,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m": 0,
+      "h": 1,
+      "collect(t)": 2,
+      "c": 3
+    }
+  },
+  {
+    "keys": [
+      "m",
+      "h",
+      "collect(t)",
+      "c"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "identity": {
+          "low": 9,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "author_screen_name": "narendramodi"
+        }
+      },
+      {
+        "identity": {
+          "low": 7,
+          "high": 0
+        },
+        "labels": [
+          "Hashtag"
+        ],
+        "properties": {
+          "hashtag": "TholiPremaPreRelease"
+        }
+      },
+      [
+        {
+          "identity": {
+            "low": 1786,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:49",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/WAeLAIhEMq",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939514666909696"
+          }
+        },
+        {
+          "identity": {
+            "low": 1708,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:32",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/AsKgeJfUzi",
+            "retweet_count": {
+              "low": 3,
+              "high": 0
+            },
+            "tid": "959939443015671808"
+          }
+        },
+        {
+          "identity": {
+            "low": 1695,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:42",
+            "like_count": {
+              "low": 2,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/dnRGyBgADZ",
+            "retweet_count": {
+              "low": 4,
+              "high": 0
+            },
+            "tid": "959939485298343936"
+          }
+        },
+        {
+          "identity": {
+            "low": 1669,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:42",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/o5zvNcOmuz",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939482148470786"
+          }
+        },
+        {
+          "identity": {
+            "low": 1580,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:57",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/kK7nQsjlFZ",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939547516649473"
+          }
+        },
+        {
+          "identity": {
+            "low": 1211,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:25",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/wRJz4UxNNR",
+            "retweet_count": {
+              "low": 1,
+              "high": 0
+            },
+            "tid": "959939413135339520"
+          }
+        },
+        {
+          "identity": {
+            "low": 1232,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:24",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "Rajasthan, India",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/2dykIijSWb",
+            "retweet_count": {
+              "low": 3,
+              "high": 0
+            },
+            "tid": "959939410153283585"
+          }
+        },
+        {
+          "identity": {
+            "low": 1266,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:46",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/5hbqlloRRE",
+            "retweet_count": {
+              "low": 6,
+              "high": 0
+            },
+            "tid": "959939501098323968"
+          }
+        },
+        {
+          "identity": {
+            "low": 981,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:45",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/UjR8q3P1b2",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939498195894272"
+          }
+        },
+        {
+          "identity": {
+            "low": 1017,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:30",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/qHt45Oh5f0",
+            "retweet_count": {
+              "low": 3,
+              "high": 0
+            },
+            "tid": "959939432655634432"
+          }
+        },
+        {
+          "identity": {
+            "low": 1032,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:51",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/NHmqYn2j2Z",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939520866140160"
+          }
+        },
+        {
+          "identity": {
+            "low": 963,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:04",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "Asanpura Nagour Rajsthan",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/sP421iL5V7",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939324220342272"
+          }
+        },
+        {
+          "identity": {
+            "low": 704,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:30",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/KHJNtKXeF0",
+            "retweet_count": {
+              "low": 3,
+              "high": 0
+            },
+            "tid": "959939435793063936"
+          }
+        },
+        {
+          "identity": {
+            "low": 536,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:06",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "Rajasthan, India",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/aHnQMiqyJv",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939333347164160"
+          }
+        },
+        {
+          "identity": {
+            "low": 6,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:05",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "Kuchaman City Nagour Rajsthan ",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/w3ghsS29ZH",
+            "retweet_count": {
+              "low": 3,
+              "high": 0
+            },
+            "tid": "959939327785500672"
+          }
+        },
+        {
+          "identity": {
+            "low": 150,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:59:52",
+            "like_count": {
+              "low": 1,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi \n#TholiPremaPreRelease\n#बॉलीवुड_ने_बिगाड़ा_सतसंग_ने_सुधारा\nअब धरती पे उस महापुरुष का जन्म हो गया हैं… https://t.co/AnTChgu75J",
+            "retweet_count": {
+              "low": 2,
+              "high": 0
+            },
+            "tid": "959939524951289856"
+          }
+        }
+      ],
+      {
+        "low": 16,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m": 0,
+      "h": 1,
+      "collect(t)": 2,
+      "c": 3
+    }
+  },
+  {
+    "keys": [
+      "m",
+      "h",
+      "collect(t)",
+      "c"
+    ],
+    "length": 4,
+    "_fields": [
+      {
+        "identity": {
+          "low": 9,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "author_screen_name": "narendramodi"
+        }
+      },
+      {
+        "identity": {
+          "low": 17,
+          "high": 0
+        },
+        "labels": [
+          "Hashtag"
+        ],
+        "properties": {
+          "hashtag": "NewIndia"
+        }
+      },
+      [
+        {
+          "identity": {
+            "low": 984,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2017-12-22",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2017-12-22 23:55:19",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "Nimta",
+            "lang": "en",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "PM @NarendraModi to inaugurate metro stretch between Botanical Garden to Kalkaji Mandir. #NewIndia  #MagentaLine https://t.co/mMGuB8ZgOq",
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "retweet_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tid": "944355704026124290"
+          }
+        },
+        {
+          "identity": {
+            "low": 11,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-01-10",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-01-10 23:57:03",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "Charlotte, NC",
+            "lang": "en",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi #SikhMassacre sir #jumla tha ki or you learnt the #lutyensdelhi way of working #shame on #NewIndia if you cannot give justice",
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "retweet_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tid": "951241507012534273"
+          }
+        }
+      ],
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "m": 0,
+      "h": 1,
+      "collect(t)": 2,
+      "c": 3
+    }
+  }
+]

@@ -1,0 +1,54 @@
+# quote_count : int
+# reply_count : int
+# hashtags : set<text>
+# datetime : timestamp
+# date : date
+# like_count : int
+# verified : boolean
+# sentiment : tinyint
+# author : text
+# location : text
+# tid : text
+# retweet_count : int
+# type : text
+# media_list : map<text, map<text,text>>
+# quoted_source_id : text
+# url_list : set<text>
+# tweet_text : text
+# author_profile_image : text
+# author_screen_name : text
+# author_id : text
+# lang : text
+# keywords_processed_list : set<text>
+# retweet_source_id : text
+# mentions : set<text>
+# replyto_source_id : text
+
+create table if not exists tweets (
+	quote_count int, 
+	reply_count int, 
+	hashtags set<text>, 
+	datetime timestamp, 
+	date date, 
+	like_count int, 
+	verified boolean, 
+	sentiment tinyint, 
+	author text, 
+	location text, 
+	tid text, 
+	retweet_count int, 
+	type text, 
+	media_list map<text, 
+	map<text,text>>, 
+	quoted_source_id text, 
+	url_list set<text>, 
+	tweet_text text, 
+	author_profile_image text, 
+	author_screen_name text, 
+	author_id text, lang text, 
+	keywords_processed_list set<text>, 
+	retweet_source_id text, 
+	mentions set<text>, 
+	replyto_source_id text, 
+	PRIMARY KEY (tid)
+	);

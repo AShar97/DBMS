@@ -1,0 +1,333 @@
+[
+  {
+    "keys": [
+      "collect(t)",
+      "m1",
+      "m2",
+      "c"
+    ],
+    "length": 4,
+    "_fields": [
+      [
+        {
+          "identity": {
+            "low": 631,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-11",
+            "sentiment": {
+              "low": -1,
+              "high": -1
+            },
+            "datetime": "2018-02-11 23:58:55",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "India",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "lang": "en",
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "Has Ram Madhav landed the BJP in trouble in Nagaland? https://t.co/1eVq9nB1kc @pbhushan1 @OfficeOfRG @INCIndia… https://t.co/1FKCNj97KP",
+            "retweet_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tid": "962838388939411458"
+          }
+        },
+        {
+          "identity": {
+            "low": 861,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-04",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-04 23:59:53",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "India",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@INCIndia गंजो के सर पर तीन बाल फिर से क्या आ गए,उन्होंने तो आईना ही देखना शुरू कर दिया ।। @OfficeOfRG",
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "retweet_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tid": "960301918047428609"
+          }
+        }
+      ],
+      {
+        "identity": {
+          "low": 141,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "author_screen_name": "INCIndia"
+        }
+      },
+      {
+        "identity": {
+          "low": 636,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "author_screen_name": "OfficeOfRG"
+        }
+      },
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "collect(t)": 0,
+      "m1": 1,
+      "m2": 2,
+      "c": 3
+    }
+  },
+  {
+    "keys": [
+      "collect(t)",
+      "m1",
+      "m2",
+      "c"
+    ],
+    "length": 4,
+    "_fields": [
+      [
+        {
+          "identity": {
+            "low": 243,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-02",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-02 23:59:48",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "India",
+            "lang": "en",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@PMOIndia, @narendramodi in Muscat on 11th Feb 2018. \n\n@BJP4India\n@AmitShah\n@Indemb_Muscat\n#ModiInMuscat https://t.co/fcdM5bLyoA",
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "retweet_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tid": "959577120963022848"
+          }
+        },
+        {
+          "identity": {
+            "low": 1403,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2017-12-05",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2017-12-05 23:58:18",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "India",
+            "lang": "hi",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@AmitShah @narendramodi 5500 रुपये में शिक्षकों से 5 साल तक पढ़वाना, क्या यही गुजरात मॉडल है।",
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "retweet_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tid": "938195858243313665"
+          }
+        }
+      ],
+      {
+        "identity": {
+          "low": 165,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "author_screen_name": "AmitShah"
+        }
+      },
+      {
+        "identity": {
+          "low": 9,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "author_screen_name": "narendramodi"
+        }
+      },
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "collect(t)": 0,
+      "m1": 1,
+      "m2": 2,
+      "c": 3
+    }
+  },
+  {
+    "keys": [
+      "collect(t)",
+      "m1",
+      "m2",
+      "c"
+    ],
+    "length": 4,
+    "_fields": [
+      [
+        {
+          "identity": {
+            "low": 1545,
+            "high": 0
+          },
+          "labels": [
+            "Tweet"
+          ],
+          "properties": {
+            "date": "2018-02-03",
+            "sentiment": {
+              "low": 0,
+              "high": 0
+            },
+            "datetime": "2018-02-03 23:56:16",
+            "like_count": {
+              "low": 0,
+              "high": 0
+            },
+            "ttype": "Tweet",
+            "location": "India",
+            "lang": "en",
+            "reply_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tweet_text": "@narendramodi @arunjaitley @RajatSharmaLive @anjanaomkashyap @sardanarohit @abhisar_sharma @awasthis… https://t.co/fe6YBADcih",
+            "quote_count": {
+              "low": 0,
+              "high": 0
+            },
+            "retweet_count": {
+              "low": 0,
+              "high": 0
+            },
+            "tid": "959938622198767616"
+          }
+        }
+      ],
+      {
+        "identity": {
+          "low": 111,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "author_screen_name": "arunjaitley"
+        }
+      },
+      {
+        "identity": {
+          "low": 1549,
+          "high": 0
+        },
+        "labels": [
+          "User"
+        ],
+        "properties": {
+          "author_screen_name": "awasthis"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "collect(t)": 0,
+      "m1": 1,
+      "m2": 2,
+      "c": 3
+    }
+  }
+]

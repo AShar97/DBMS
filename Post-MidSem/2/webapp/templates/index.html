@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Neo4j Database Assignment Webapp</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	<!-- Latest compiled JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<div class="container">
+
+	<h2>Neo4j Database Assignment Webapp</h2>
+
+	<div>
+		<ol>
+			<li>
+				Given a user, retrieve all tweets posted by that user.
+			</li>
+			<li>
+				Given a user, retrieve all the users mentioned by the given user.
+			</li>
+			<li>
+				Retrieve the top 20 most frequently co-occurring hashtags. Two hashtags are said to be co-occurring if they co-appear in the same tweet.
+			</li>
+			<li>
+				Given a hashtag, retrieve the top 20 most frequently co-occurring user-mentions with the hashtag. A user-mention and hashtag are said to be co-occurring if they co-appear in the same tweet.
+			</li>
+			<li>
+				Retrieve all the hashtags appearing from a given location.
+			</li>
+			<li>
+				Retrieve the top 5 user-user pairs where a user-user pair is ranked by the number of retweets. For example if user1 have retweeted tweets by user2 10 times, then the number of retweets for user1-user2 pair will be 10.
+			</li>
+			<li>
+				Retrieve the top 5 user-user pairs where a user-user pair is ranked by the number of replies. For example if user1 have replied to tweets by user 2 10 times, then the number of replies for user1-user2 pair will be 10.
+			</li>
+			<li>
+				Given a user, delete all tweets by that user.
+			</li>
+		</ol>
+		**Results of operation 8 may not be displayed in the web interface.
+		<br><br>
+	</div>
+
+	<div class="panel panel-info">
+		<form action="/" method="post" role="form">
+			<input type="hidden" name="index" id="index" />
+			<div class="form-group">
+				<!-- <label for="name">Name:</label> -->
+				<input type="text" class="form-control" id="name" name="name" placeholder="Enter the input...">
+			</div>
+			<input type="submit" class="btn btn-success" value="Submit Query 1" onclick="setter(1)"></input>
+			<input type="submit" class="btn btn-success" value="Submit Query 2" onclick="setter(2)"></input>
+			<input type="submit" class="btn btn-success" value="Submit Query 3" onclick="setter(3)"></input>
+			<input type="submit" class="btn btn-success" value="Submit Query 4" onclick="setter(4)"></input>
+			<input type="submit" class="btn btn-success" value="Submit Query 5" onclick="setter(5)"></input>
+			<input type="submit" class="btn btn-success" value="Submit Query 6" onclick="setter(6)"></input>
+			<input type="submit" class="btn btn-success" value="Submit Query 7" onclick="setter(7)"></input>
+			<input type="submit" class="btn btn-success" value="Submit Query 8" onclick="setter(8)"></input>
+			<input type="submit" class="btn btn-success" value="Clear!" onclick="setter(0)"></input>
+		</form>
+	</div>
+	<div id="output_here"></div>
+</div>
+
+</body>
+</html>
+<script type="text/javascript">
+	var output = "{{ out|safe }}";
+	function setter(index){
+		$('#index').val(index);
+	}
+	$('#output_here').html(output);
+</script>
